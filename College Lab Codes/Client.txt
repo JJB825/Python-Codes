@@ -1,0 +1,5 @@
+Name : Jishnu Jayant Bandodkar
+Year : Second Year B.Tech
+College Name : Veermata Jijabai Technological Institute
+Course : Programming Lab - 1
+Experiment Number : 7
